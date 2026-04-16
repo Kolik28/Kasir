@@ -56,3 +56,23 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
+
+# 🛒 Kasirku - Point of Sale (POS) System
+
+**Kasirku** adalah aplikasi manajemen kasir sederhana yang dibangun untuk memenuhi tugas **UTS (Ujian Tengah Semester)**. Aplikasi ini dirancang menggunakan **Laravel 11** dan **Filament Panel Builder** untuk memberikan pengalaman manajemen transaksi yang cepat, responsif, dan mudah digunakan.
+
+## ✨ Fitur Utama
+- **Manajemen Produk:** Kelola data barang, harga, dan stok dengan mudah.
+- **Sistem Transaksi:** Antarmuka kasir yang intuitif untuk memproses penjualan.
+- **Filament Admin Panel:** Dashboard admin yang modern dan responsif.
+- **Manajemen Kategori:** Pengelompokan produk berdasarkan kategori.
+- **Riwayat Transaksi:** Mencatat semua aktivitas penjualan yang telah dilakukan.
+
+## 🛠️ Tech Stack
+- **Framework:** [Laravel 11](https://laravel.com)
+- **Tampilan Admin:** Tailadmin Kayaknya 
+- **Database:** MySQL / Sqlite
+- **Bahasa:** PHP 8.2+
