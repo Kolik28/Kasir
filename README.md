@@ -67,7 +67,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## ✨ Fitur Utama
 - **Manajemen Produk:** Kelola data barang, harga, dan stok dengan mudah.
 - **Sistem Transaksi:** Antarmuka kasir yang intuitif untuk memproses penjualan.
-- **Filament Admin Panel:** Dashboard admin yang modern dan responsif.
+- **TailAdmin Panel:** Dashboard admin yang modern dan responsif by tailwind.
 - **Manajemen Kategori:** Pengelompokan produk berdasarkan kategori.
 - **Riwayat Transaksi:** Mencatat semua aktivitas penjualan yang telah dilakukan.
 
