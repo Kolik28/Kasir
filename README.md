@@ -72,7 +72,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 - **Riwayat Transaksi:** Mencatat semua aktivitas penjualan yang telah dilakukan.
 
 ## 🛠️ Tech Stack
-- **Framework:** [Laravel 11](https://laravel.com)
+- **Framework:** [Laravel 13](https://laravel.com)
 - **Tampilan Admin:** Tailadmin Kayaknya 
 - **Database:** MySQL / Sqlite
 - **Bahasa:** PHP 8.2+
